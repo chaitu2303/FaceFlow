@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+pgvector
+redis
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+# AI & CV
+opencv-python-headless
+mediapipe
+onnxruntime
+numpy
