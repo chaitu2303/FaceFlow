@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 FaceFlow AI
+#  FaceFlow AI
 **Enterprise Presence Intelligence & Advanced Face Recognition Ecosystem**
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
